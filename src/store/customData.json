@@ -1,0 +1,2462 @@
+[
+    {
+    "alpha3Code": "Bitcoin",
+    "name": "Bitcoin",
+    "currName": ["Bitcoin"],
+    "currCode": ["BTC"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Bitcoin.svg"],
+    "flag": "https://en.bitcoin.it/wiki/File:Btc-sans.png"
+    },
+    {
+    "alpha3Code": "ABW",
+    "name": "Aruba",
+    "currName": ["Aruban florin"],
+    "currCode": ["AWG"],
+    "pegged": ["1 USD to 1.79 AWG"],
+    "territory": "Netherlands",
+    "currSymbol": ["public/World Currency Symbols/Aruban Florin.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/aw.png"
+    },
+    {
+    "alpha3Code": "AFG",
+    "name": "Afghanistan",
+    "currName": ["afghani"],
+    "currCode": ["AFN"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Afghani.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/af.png"
+    },
+    {
+    "alpha3Code": "AGO",
+    "name": "Angola",
+    "currName": ["Angolan Kwanza"],
+    "currCode": ["AOA"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Angolan Kwanza.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ao.png"
+    },
+    {
+    "alpha3Code": "AIA",
+    "name": "Anguilla",
+    "currName": ["East Caribbean dollar"],
+    "currCode": ["XCD"],
+    "pegged": ["1 USD to 2.70 XCD"],
+    "territory": "United Kingdom",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ai.png"
+    },
+    {
+    "alpha3Code": "ALA",
+    "name": "Åland Islands",
+    "currName": ["EU euro"],
+    "currCode": ["EUR"],
+    "pegged": ["none"],
+    "territory": "Finland",
+    "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ax.png"
+    },
+    {
+    "alpha3Code": "ALB",
+    "name": "Albania",
+    "currName": ["Albanian lek"],
+    "currCode": ["ALL"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Lek - Lempira - Leu - Loti - Lilangeni.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/al.png"
+    },
+    {
+    "alpha3Code": "CUW",
+    "name": "Curaçao",
+    "currName": ["Netherlands Antillian guilder"],
+    "currCode": ["ANG"],
+    "pegged": ["none"],
+    "territory": "Neatherlands",
+    "currSymbol": ["public/World Currency Symbols/Guilder.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/cw.png"
+    },
+    {
+    "alpha3Code": "ARE",
+    "name": "United Arab Emirates",
+    "currName": ["UAE dirham"],
+    "currCode": ["AED"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/UAE Dirham.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ae.png"
+    },
+    {
+    "alpha3Code": "ARG",
+    "name": "Argentina",
+    "currName": ["Argentine peso"],
+    "currCode": ["ARS"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ar.png"
+    },
+    {
+    "alpha3Code": "ARM",
+    "name": "Armenia",
+    "currName": ["Armenian dram"],
+    "currCode": ["AMD"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Armenian Dram.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/am.png"
+    },
+    {
+    "alpha3Code": "ATF",
+    "name": "French Southern and Antarctic Lands",
+    "currName": ["EU euro"],
+    "currCode": ["EUR"],
+    "pegged": ["none"],
+    "territory": "France",
+    "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/tf.png"
+    },
+    {
+    "alpha3Code": "ATG",
+    "name": "Antigua and Barbuda",
+    "currName": ["East Caribbean dollar"],
+    "currCode": ["XCD"],
+    "pegged": ["1 USD to 2.70 XCD"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ag.png"
+    },
+    {
+    "alpha3Code": "AUS",
+    "name": "Australia",
+    "currName": ["Australian dollar"],
+    "currCode": ["AUD"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/au.png"
+    },
+    {
+    "alpha3Code": "AUT",
+    "name": "Austria",
+    "currName": ["EU euro"],
+    "currCode": ["EUR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/at.png"
+    },
+    {
+    "alpha3Code": "AZE",
+    "name": "Azerbaijan",
+    "currName": ["Azerbaijanian new manat"],
+    "currCode": ["AZN"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Azerbaijani Manat.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/az.png"
+    },
+    {
+    "alpha3Code": "BDI",
+    "name": "Burundi",
+    "currName": ["Burundi franc"],
+    "currCode": ["BIF"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Burundian Franc.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/bi.png"
+    },
+    {
+    "alpha3Code": "BEL",
+    "name": "Belgium",
+    "currName": ["EU euro"],
+    "currCode": ["EUR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/be.png"
+    },
+    {
+    "alpha3Code": "BEN",
+    "name": "Benin",
+    "currName": ["CFA franc BCEAO"],
+    "currCode": ["XOF"],
+    "pegged": ["Fixed exchange rate 1 EUR to 655.957 CFA"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/West African Franc.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/bj.png"
+    },
+    {
+    "alpha3Code": "BES",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "currName": ["US dollar"],
+    "currCode": ["USD"],
+    "pegged": ["none"],
+    "territory": "Neatherlands",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/bq.png"
+    },
+    {
+    "alpha3Code": "BFA",
+    "name": "Burkina Faso",
+    "currName": ["CFA franc BCEAO"],
+    "currCode": ["XOF"],
+    "pegged": ["Fixed exchange rate 1 EUR to 655.957 CFA"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/West African Franc.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/bf.png"
+    },
+    {
+    "alpha3Code": "BGD",
+    "name": "Bangladesh",
+    "currName": ["Bangladeshi taka"],
+    "currCode": ["BDT"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Bangladeshi Taka.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/bd.png"
+    },
+    {
+    "alpha3Code": "BGR",
+    "name": "Bulgaria",
+    "currName": ["Bulgarian lev", "EU euro"],
+    "currCode": ["BGN", "EUR"],
+    "pegged": ["none", "none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Lev - Som.svg", "public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/bg.png"
+    },
+    {
+    "alpha3Code": "BHR",
+    "name": "Bahrain",
+    "currName": ["Bahraini dinar"],
+    "currCode": ["BHD"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Bahraini Dinar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/bh.png"
+    },
+    {
+    "alpha3Code": "BHS",
+    "name": "Bahamas",
+    "currName": ["Bahamian dollar", "US dollar"],
+    "currCode": ["BSD", "USD"],
+    "pegged": ["1 USD to 1 BSD", "none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg", "public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/bs.png"
+    },
+    {
+    "alpha3Code": "BIH",
+    "name": "Bosnia and Herzegovina",
+    "currName": ["Convertible mark"],
+    "currCode": ["BAM"],
+    "pegged": ["1 EUR to 1.95583 BAM"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Bosnia and Herzegovina Convertible Mark.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ba.png"
+    },
+    {
+    "alpha3Code": "BLM",
+    "name": "Saint Barth�lemy",
+    "currName": ["EU euro"],
+    "currCode": ["EUR"],
+    "pegged": ["none"],
+    "territory": "France",
+    "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/bl.png"
+    },
+    {
+    "alpha3Code": "BLR",
+    "name": "Belarus",
+    "currName": ["Belarusian ruble"],
+    "currCode": ["BYN"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Belarusian Ruble.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/by.png"
+    },
+    {
+    "alpha3Code": "BLZ",
+    "name": "Belize",
+    "currName": ["Belize dollar"],
+    "currCode": ["BZD"],
+    "pegged": ["1 USD to 2 BZD"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/bz.png"
+    },
+    {
+    "alpha3Code": "BMU",
+    "name": "Bermuda",
+    "currName": ["Bermudian dollar"],
+    "currCode": ["BMD"],
+    "pegged": ["1 USD to 1 BMD"],
+    "territory": "United Kingdom",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/bm.png"
+    },
+    {
+    "alpha3Code": "BOL",
+    "name": "Bolivia",
+    "currName": ["Bolivian boliviano"],
+    "currCode": ["BOB"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Bolivian Boliviano.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/bo.png"
+    },
+    {
+    "alpha3Code": "BRA",
+    "name": "Brazil",
+    "currName": ["Brazilian real"],
+    "currCode": ["BRL"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Brazilian Real.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/br.png"
+    },
+    {
+    "alpha3Code": "BRB",
+    "name": "Barbados",
+    "currName": ["Barbados dollar"],
+    "currCode": ["BBD"],
+    "pegged": ["1 USD to 2 BBD"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/bb.png"
+    },
+    {
+    "alpha3Code": "BRN",
+    "name": "Brunei",
+    "currName": ["Brunei dollar", "Singapore dollar"],
+    "currCode": ["BND", "SDG"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg", "public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/bn.png"
+    },
+    {
+    "alpha3Code": "BTN",
+    "name": "Bhutan",
+    "currName": ["Bhutanese ngultrum"],
+    "currCode": ["BTN"],
+    "pegged": ["1 INR to 1 BTN"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Bhutanese Ngultrum.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/bt.png"
+    },
+    {
+    "alpha3Code": "BWA",
+    "name": "Botswana",
+    "currName": ["Botswana pula"],
+    "currCode": ["BWP"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Pula - Pataca.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/bw.png"
+    },
+    {
+    "alpha3Code": "CAF",
+    "name": "Central African Republic",
+    "currName": ["CFA franc BEAC"],
+    "currCode": ["XAF"],
+    "pegged": "1 EUR to 655.957 CFA",
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/West African Franc.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/cf.png"
+    },
+    {
+    "alpha3Code": "CAN",
+    "name": "Canada",
+    "currName": ["Canadian dollar"],
+    "currCode": ["CAD"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ca.png"
+    },
+    {
+    "alpha3Code": "CCK",
+    "name": "Cocos (Keeling) Islands",
+    "currName": ["Australian dollar"],
+    "currCode": ["AUD"],
+    "pegged": ["none"],
+    "territory": "Australia",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/cc.png"
+    },
+    {
+    "alpha3Code": "CHE",
+    "name": "Switzerland",
+    "currName": ["Swiss franc"],
+    "currCode": ["CHF"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Franc.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ch.png"
+    },
+    {
+    "alpha3Code": "CHL",
+    "name": "Chile",
+    "currName": ["Chilean peso", "Unidad de Fomento"],
+    "currCode": ["CLP", "CLF"],
+    "pegged": ["none", "none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/cl.png"
+    },
+    {
+    "alpha3Code": "CHN",
+    "name": "China",
+    "currName": ["Chinese yuan renminbi"],
+    "currCode": ["CNY"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Chinese Yuan.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/cn.png"
+    },
+    {
+    "alpha3Code": "CIV",
+    "name": "Ivory Coast",
+    "currName": ["CFA franc BCEAO"],
+    "currCode": ["XOF"],
+    "pegged": ["1 EUR to 655.957 CFA"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/West African Franc.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ci.png"
+    },
+    {
+    "alpha3Code": "CMR",
+    "name": "Cameroon",
+    "currName": ["CFA franc BEAC"],
+    "currCode": ["XAF"],
+    "pegged": ["1 EUR to 655.957 CFA"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/West African Franc.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/cm.png"
+    },
+    {
+    "alpha3Code": "COD",
+    "name": "Democratic Republic of the Congo",
+    "currName": ["Congolese franc"],
+    "currCode": ["CDF"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Congolese Franc.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/cd.png"
+    },
+    {
+    "alpha3Code": "COG",
+    "name": "Republic of the Congo",
+    "currName": ["CFA franc BEAC"],
+    "currCode": ["XAF"],
+    "pegged": ["1 EUR to 655.957 CFA"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/West African Franc.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/cg.png"
+    },
+    {
+    "alpha3Code": "COK",
+    "name": "Cook Islands",
+    "currName": ["New Zealand dollar"],
+    "currCode": ["NZD"],
+    "pegged": ["none"],
+    "territory": "loosely associated territory of New Zealand",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ck.png"
+    },
+    {
+    "alpha3Code": "COL",
+    "name": "Colombia",
+    "currName": ["Colombian peso"],
+    "currCode": ["COP"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/co.png"
+    },
+    {
+    "alpha3Code": "COM",
+    "name": "Comoros",
+    "currName": ["Comoros franc"],
+    "currCode": ["KMF"],
+    "pegged": ["1 EUR to 491.96775 KMF."],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Comorian Franc.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/km.png"
+    },
+    {
+    "alpha3Code": "CPV",
+    "name": "Cabo Verde",
+    "currName": ["Cape Verde escudo"],
+    "currCode": ["CVE"],
+    "pegged": ["1 EUR to 110.265 CVE"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/cv.png"
+    },
+    {
+    "alpha3Code": "CRI",
+    "name": "Costa Rica",
+    "currName": ["Costa Rican colón"],
+    "currCode": ["CRC"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Colon.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/cr.png"
+    },
+    {
+    "alpha3Code": "CUB",
+    "name": "Cuba",
+    "currName": ["Cuban convertable peso", "Cuban peso"],
+    "currCode": ["CUC", "CUP"],
+    "pegged": ["1 USD to 1 CUC", "1 USD to 1 CUP"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg","public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/cu.png"
+    },
+    {
+    "alpha3Code": "CXR",
+    "name": "Christmas Island",
+    "currName": ["Australian dollar"],
+    "currCode": ["AUD"],
+    "pegged": ["none"],
+    "territory": "Australia",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/cx.png"
+    },
+    {
+    "alpha3Code": "CYM",
+    "name": "Cayman Islands",
+    "currName": ["Cayman Islands dollar"],
+    "currCode": ["KYD"],
+    "pegged": ["1 KYD to 1.20 USD"],
+    "territory": "United Kingdom",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ky.png"
+    },
+    {
+    "alpha3Code": "CYP",
+    "name": "Cyprus",
+    "currName": ["EU euro"],
+    "currCode": ["EUR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/cy.png"
+    },
+    {
+    "alpha3Code": "CZE",
+    "name": "Czech Republic",
+    "currName": ["Czech koruna", "EU euro"],
+    "currCode": ["CZK", "EUR"],
+    "pegged": ["none", "none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Czech Koruna.svg","public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/cz.png"
+    },
+    {
+    "alpha3Code": "DEU",
+    "name": "Germany",
+    "currName": ["EU euro"],
+    "currCode": ["EUR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/de.png"
+    },
+    {
+    "alpha3Code": "DJI",
+    "name": "Djibouti",
+    "currName": ["Djibouti franc"],
+    "currCode": ["DJF"],
+    "pegged": ["1 USD to 177.721 DJF"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Djiboutian Franc.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/dj.png"
+    },
+    {
+    "alpha3Code": "DMA",
+    "name": "Dominica",
+    "currName": ["East Caribbean dollar"],
+    "currCode": ["XCD"],
+    "pegged": ["1 USD to 2.70 XCD"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/dm.png"
+    },
+    {
+    "alpha3Code": "DNK",
+    "name": "Denmark",
+    "currName": ["Danish krone", "EU euro"],
+    "currCode": ["DKK", "EUR"],
+    "pegged": ["1 EUR to 7.46038 DKK", "none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Krone - Krona.svg", "public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/dk.png"
+    },
+    {
+    "alpha3Code": "DOM",
+    "name": "Dominican Republic",
+    "currName": ["Dominican peso"],
+    "currCode": ["DOP"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/do.png"
+    },
+    {
+    "alpha3Code": "DZA",
+    "name": "Algeria",
+    "currName": ["Algerian dinar"],
+    "currCode": ["DZD"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Algerian Dinar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/dz.png"
+    },
+    {
+    "alpha3Code": "ECU",
+    "name": "Ecuador",
+    "currName": ["US dollar"],
+    "currCode": ["USD"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ec.png"
+    },
+    {
+    "alpha3Code": "EGY",
+    "name": "Egypt",
+    "currName": ["Egyptian pound"],
+    "currCode": ["EGP"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Egyptian Pound.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/eg.png"
+    },
+    {
+    "alpha3Code": "ERI",
+    "name": "Eritrea",
+    "currName": ["Eritrean nakfa"],
+    "currCode": ["ERN"],
+    "pegged": ["1 USD to 15 ERN"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Eritrean Nakfa.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/er.png"
+    },
+    {
+    "alpha3Code": "ESH",
+    "name": "Western Sahara-Saharawi, Arab Democratic Republic",
+    "currName": ["Mauritanian ouguiya", "Moroccan dirham"],
+    "currCode": ["MRO", "MAD"],
+    "pegged": ["none", "60% EUR and 40% USD"],
+    "territory": "Sovereignty disputed with Morocco",
+    "currSymbol": ["public/World Currency Symbols/Mauritanian Ouguiya.svg", "public/World Currency Symbols/Moroccan Dirham.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/eh.png"
+    },
+    {
+    "alpha3Code": "ESP",
+    "name": "Spain",
+    "currName": ["EU euro"],
+    "currCode": ["EUR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/es.png"
+    },
+    {
+    "alpha3Code": "EST",
+    "name": "Estonia",
+    "currName": ["EU euro"],
+    "currCode": ["EUR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ee.png"
+    },
+    {
+    "alpha3Code": "ETH",
+    "name": "Ethiopia",
+    "currName": ["Ethiopian birr"],
+    "currCode": ["ETB"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Belarusian Ruble Ethiopian Birr.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/et.png"
+    },
+    {
+    "alpha3Code": "FIN",
+    "name": "Finland",
+    "currName": ["EU euro"],
+    "currCode": ["EUR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/fi.png"
+    },
+    {
+    "alpha3Code": "FJI",
+    "name": "Fiji",
+    "currName": ["Fijian dollar"],
+    "currCode": ["FJD"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/fj.png"
+    },
+    {
+    "alpha3Code": "FLK",
+    "name": "Falkland Islands",
+    "currName": ["Falkland Islands pound"],
+    "currCode": ["FKP"],
+    "pegged": ["1 GBP to 1 FKP"],
+    "territory": "United Kingdom",
+    "currSymbol": ["public/World Currency Symbols/Pound.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/fk.png"
+    },
+    {
+    "alpha3Code": "FRA",
+    "name": "France",
+    "currName": ["EU euro"],
+    "currCode": ["EUR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/fr.png"
+    },
+    {
+    "alpha3Code": "FRO",
+    "name": "Faroe Islands",
+    "currName": ["Faroese krona"],
+    "currCode": ["FOK"],
+    "pegged": ["1 DKK to 1 Faroese krona"],
+    "territory": "Denmark",
+    "currSymbol": ["public/World Currency Symbols/Krone - Krona.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/fo.png"
+    },
+    {
+    "alpha3Code": "FSM",
+    "name": "Micronesia (Federated States of)",
+    "currName": ["US dollar"],
+    "currCode": ["USD"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/fm.png"
+    },
+    {
+    "alpha3Code": "GAB",
+    "name": "Gabon",
+    "currName": ["CFA franc BEAC"],
+    "currCode": ["XAF"],
+    "pegged": ["1 EUR to 655.957 CFA"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/West African Franc.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ga.png"
+    },
+    {
+    "alpha3Code": "GBR",
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "currName": ["Pound Sterling"],
+    "currCode": ["GBP"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Pound.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/gb.png"
+    },
+    {
+    "alpha3Code": "GEO",
+    "name": "Georgia",
+    "currName": ["Georgian lari"],
+    "currCode": ["GEL"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Georgian Lari.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ge.png"
+    },
+    {
+    "alpha3Code": "GGY",
+    "name": "Guernsey",
+    "currName": ["Guernsey pound", "Pound Sterling"],
+    "currCode": ["GGP", "GBP"],
+    "pegged": ["Currency union with Pound Sterling.", "none"],
+    "territory": "United Kingdom",
+    "currSymbol": ["public/World Currency Symbols/Pound.svg","public/World Currency Symbols/Pound.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/gg.png"
+    },
+    {
+    "alpha3Code": "GHA",
+    "name": "Ghana",
+    "currName": ["Ghanaian cedi"],
+    "currCode": ["GHS"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Ghanan Cedi.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/gh.png"
+    },
+    {
+    "alpha3Code": "GIB",
+    "name": "Gibraltar",
+    "currName": ["Gibraltar pound"],
+    "currCode": ["GIP"],
+    "pegged": ["1 GBP to 1 GIP"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Pound.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/gi.png"
+    },
+    {
+    "alpha3Code": "GIN",
+    "name": "Guinea",
+    "currName": ["Guinean franc"],
+    "currCode": ["GNF"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Guinean Franc.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/gn.png"
+    },
+    {
+    "alpha3Code": "GLP",
+    "name": "Guadeloupe",
+    "currName": ["EU euro"],
+    "currCode": ["EUR"],
+    "pegged": ["none"],
+    "territory": "France",
+    "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/gp.png"
+    },
+    {
+    "alpha3Code": "GMB",
+    "name": "Gambia",
+    "currName": ["Gambian dalasi"],
+    "currCode": ["GMD"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Gambian Dalasi.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/gm.png"
+    },
+    {
+    "alpha3Code": "GNB",
+    "name": "Guinea-Bissau",
+    "currName": ["CFA franc BCEAO"],
+    "currCode": ["XOF"],
+    "pegged": ["Fixed exchange rate 1 EUR to 655.957 CFA"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/West African Franc.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/gw.png"
+    },
+    {
+    "alpha3Code": "GNQ",
+    "name": "Equatorial Guinea",
+    "currName": ["CFA franc BEAC"],
+    "currCode": ["XAF"],
+    "pegged": ["1 EUR to 655.957 CFA"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/West African Franc.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/gq.png"
+    },
+    {
+    "alpha3Code": "GRC",
+    "name": "Greece",
+    "currName": ["EU euro"],
+    "currCode": ["EUR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/gr.png"
+    },
+    {
+    "alpha3Code": "GRD",
+    "name": "Grenada",
+    "currName": ["East Caribbean dollar"],
+    "currCode": ["XCD"],
+    "pegged": ["1 USD to 2.70 XCD"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/gd.png"
+    },
+    {
+    "alpha3Code": "GRL",
+    "name": "Greenland",
+    "currName": ["Danish krone"],
+    "currCode": ["DKK"],
+    "pegged": ["none"],
+    "territory": "Denmark",
+    "currSymbol": ["public/World Currency Symbols/Krone - Krona.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/gl.png"
+    },
+    {
+    "alpha3Code": "GTM",
+    "name": "Guatemala",
+    "currName": ["Guatemalan quetzal"],
+    "currCode": ["GTQ"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Guatemalan Quetzal.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/gt.png"
+    },
+    {
+    "alpha3Code": "GUF",
+    "name": "French Guiana",
+    "currName": ["EU euro"],
+    "currCode": ["EUR"],
+    "pegged": ["none"],
+    "territory": "France",
+    "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/gf.png"
+    },
+    {
+    "alpha3Code": "GUM",
+    "name": "Guam",
+    "currName": ["US dollar"],
+    "currCode": ["USD"],
+    "pegged": ["none"],
+    "territory": "United States",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/gu.png"
+    },
+    {
+    "alpha3Code": "GUY",
+    "name": "Guyana",
+    "currName": ["Guyana dollar"],
+    "currCode": ["GYD"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/gy.png"
+    },
+    {
+    "alpha3Code": "HKG",
+    "name": "China, Hong Kong Special Administrative Region",
+    "currName": ["Hong Kong SAR dollar"],
+    "currCode": ["HKD"],
+    "pegged": ["1 USD to 7.75 - 7.85 HKD"],
+    "territory": "China",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/hk.png"
+    },
+    {
+    "alpha3Code": "HMD",
+    "name": "Heard Island and McDonald Islands",
+    "currName": ["Australian Dollar"],
+    "currCode": ["AUD"],
+    "pegged": ["none"],
+    "territory": "Australia",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/hm.png"
+    },
+    {
+    "alpha3Code": "HND",
+    "name": "Honduras",
+    "currName": ["Honduran lempira"],
+    "currCode": ["HNL"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Lek - Lempira - Leu - Loti - Lilangeni.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/hn.png"
+    },
+    {
+    "alpha3Code": "HRV",
+    "name": "Croatia",
+    "currName": ["Croatian kuna", "EU euro"],
+    "currCode": ["HRK", "EUR"],
+    "pegged": ["1 EUR to 7.53450 HRK", "none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Croatian Kuna.svg","public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/hr.png"
+    },
+    {
+    "alpha3Code": "HTI",
+    "name": "Haiti",
+    "currName": ["Haitian gourde"],
+    "currCode": ["HTG"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Haitian Gourde.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ht.png"
+    },
+    {
+    "alpha3Code": "HUN",
+    "name": "Hungary",
+    "currName": ["Hungarian forint", "EU euro"],
+    "currCode": ["HUF","EUR"],
+    "pegged": ["none", "none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Hungarian Forint.svg","public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/hu.png"
+    },
+    {
+    "alpha3Code": "IDN",
+    "name": "Indonesia",
+    "currName": ["Indonesian rupiah"],
+    "currCode": ["IDR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Indonesian Rupiah.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/id.png"
+    },
+    {
+    "alpha3Code": "IMN",
+    "name": "Isle of Man",
+    "currName": ["Manx pound", "Pound Sterling"],
+    "currCode": ["IMP", "GBP"],
+    "pegged": ["1 GBP to 1 IMP", "none"],
+    "territory": "United Kingdom",
+    "currSymbol": ["public/World Currency Symbols/Pound.svg", "public/World Currency Symbols/Pound.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/im.png"
+    },
+    {
+    "alpha3Code": "IND",
+    "name": "India",
+    "currName": ["Indian rupee"],
+    "currCode": ["INR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Indian Rupee.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/in.png"
+    },
+    {
+    "alpha3Code": "IOT",
+    "name": "British Indian Ocean territory",
+    "currName": ["US dollar", "Pound Sterling"],
+    "currCode": ["USD", "GBP"],
+    "pegged": ["none"],
+    "territory": "United Kingdom",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg", "public/World Currency Symbols/Pound.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/io.png"
+    },
+    {
+    "alpha3Code": "IRL",
+    "name": "Ireland",
+    "currName": ["EU euro"],
+    "currCode": ["EUR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ie.png"
+    },
+    {
+    "alpha3Code": "IRN",
+    "name": "Iran, Islamic Republic of",
+    "currName": ["Iranian rial"],
+    "currCode": ["IRR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Iranian Rial.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ir.png"
+    },
+    {
+    "alpha3Code": "IRQ",
+    "name": "Iraq",
+    "currName": ["Iraqi dinar"],
+    "currCode": ["IQD"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Iraqi Dinar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/iq.png"
+    },
+    {
+    "alpha3Code": "ISL",
+    "name": "Iceland",
+    "currName": ["Icelandic krona"],
+    "currCode": ["ISK"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Krone - Krona.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/is.png"
+    },
+    {
+    "alpha3Code": "ISR",
+    "name": "Israel",
+    "currName": ["Israeli new shekel"],
+    "currCode": ["ILS"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Israeli New Shekel.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/il.png"
+    },
+    {
+    "alpha3Code": "ITA",
+    "name": "Italy",
+    "currName": ["EU euro"],
+    "currCode": ["EUR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/it.png"
+    },
+    {
+    "alpha3Code": "JAM",
+    "name": "Jamaica",
+    "currName": ["Jamaican dollar"],
+    "currCode": ["JMD"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/jm.png"
+    },
+    {
+    "alpha3Code": "JEY",
+    "name": "Jersey",
+    "currName": ["Jersey pound", "Pound Sterling"],
+    "currCode": ["JEP", "GBP"],
+    "pegged": ["Currency union with Pound Sterling.", "none"],
+    "territory": "United Kingdom",
+    "currSymbol": ["public/World Currency Symbols/Pound.svg", "public/World Currency Symbols/Pound.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/jm.png"
+    },
+    {
+    "alpha3Code": "JOR",
+    "name": "Jordan",
+    "currName": ["Jordanian dinar"],
+    "currCode": ["JOD"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Jordanian Dinar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/jo.png"
+    },
+    {
+    "alpha3Code": "JPN",
+    "name": "Japan",
+    "currName": ["Japanese yen"],
+    "currCode": ["JPY"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Yen.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/jp.png"
+    },
+    {
+    "alpha3Code": "KAZ",
+    "name": "Kazakhstan",
+    "currName": ["Kazakhstani tenge"],
+    "currCode": ["KZT"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Kazakh Tenge.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/kz.png"
+    },
+    {
+    "alpha3Code": "KEN",
+    "name": "Kenya",
+    "currName": ["Kenyan shilling"],
+    "currCode": ["KES"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Kenyan Shilling.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ke.png"
+    },
+    {
+    "alpha3Code": "KGZ",
+    "name": "Kyrgyzstan",
+    "currName": "Kyrgyz som",
+    "currCode": ["KGS"],
+    "pegged": "none",
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Kyrgyzstani Som.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/kg.png"
+    },
+    {
+    "alpha3Code": "KHM",
+    "name": "Cambodia",
+    "currName": ["Cambodian riel"],
+    "currCode": ["KHR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Cambodian Riel.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/kh.png"
+    },
+    {
+    "alpha3Code": "KIR",
+    "name": "Kiribati",
+    "currName": ["Australian dollar"],
+    "currCode": ["AUD"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ki.png"
+    },
+    {
+    "alpha3Code": "KNA",
+    "name": "Saint Kitts and Nevis",
+    "currName": ["East Caribbean dollar"],
+    "currCode": ["XCD"],
+    "pegged": ["1 USD to 2.70 XCD"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/kn.png"
+    },
+    {
+    "alpha3Code": "KOR",
+    "name": "Republic of Korea-South",
+    "currName": ["South Korean won"],
+    "currCode": ["KRW"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/North and South Korean Won.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/kr.png"
+    },
+    {
+    "alpha3Code": "KWT",
+    "name": "Kuwait",
+    "currName": ["Kuwaiti dinar"],
+    "currCode": ["KWD"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Kuwaiti Dinar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/kw.png"
+    },
+    {
+    "alpha3Code": "LAO",
+    "name": "Lao People's Democratic Republic (Laos)",
+    "currName": ["Lao kip"],
+    "currCode": ["LAK"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Laosian Kip.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/la.png"
+    },
+    {
+    "alpha3Code": "LBN",
+    "name": "Lebanon",
+    "currName": ["Lebanese pound"],
+    "currCode": ["LBP"],
+    "pegged": ["1 USD to 1507 LBP"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Lebanese Pound.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/lb.png"
+    },
+    {
+    "alpha3Code": "LBR",
+    "name": "Liberia",
+    "currName": ["Liberian dollar"],
+    "currCode": ["LRD"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/lr.png"
+    },
+    {
+    "alpha3Code": "LBY",
+    "name": "Libya",
+    "currName": ["Libyan dinar"],
+    "currCode": ["LYD"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Libyan Dinar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/lr.png"
+    },
+    {
+    "alpha3Code": "LCA",
+    "name": "Saint Lucia",
+    "currName": ["East Caribbean dollar"],
+    "currCode": ["XCD"],
+    "pegged": ["1 USD to 2.70 XCD"],
+    "territory": "United Kingdom",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/lc.png"
+    },
+    {
+    "alpha3Code": "LIE",
+    "name": "Liechtenstein",
+    "currName": ["Swiss franc"],
+    "currCode": ["CHF"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Swiss Franc.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/li.png"
+    },
+    {
+    "alpha3Code": "LKA",
+    "name": "Sri Lanka",
+    "currName": ["Sri Lanka rupee"],
+    "currCode": ["LKR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Sri Lanken Rupee.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/lk.png"
+    },
+    {
+    "alpha3Code": "LSO",
+    "name": "Lesotho",
+    "currName": ["Lesotho loti"],
+    "currCode": ["LSL"],
+    "pegged": ["1 ZAR to 1 LSL"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Lek - Lempira - Leu - Loti - Lilangeni.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ls.png"
+    },
+    {
+    "alpha3Code": "LTU",
+    "name": "Lithuania",
+    "currName": ["EU euro"],
+    "currCode": ["EUR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/lt.png"
+    },
+    {
+    "alpha3Code": "LUX",
+    "name": "Luxembourg",
+    "currName": ["EU euro"],
+    "currCode": ["EUR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/lu.png"
+    },
+    {
+    "alpha3Code": "LVA",
+    "name": "Latvia",
+    "currName": ["EU euro"],
+    "currCode": ["EUR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/lv.png"
+    },
+    {
+    "alpha3Code": "MAC",
+    "name": "China, Macao Special Administrative Region",
+    "currName": ["Macao SAR pataca"],
+    "currCode": ["MOP"],
+    "pegged": ["1 HKD to 1.03 MOP"],
+    "territory": "China",
+    "currSymbol": ["public/World Currency Symbols/Macanese Pataca.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/mo.png"
+    },
+    {
+    "alpha3Code": "MAF",
+    "name": "Saint Martin",
+    "currName": ["EU euro"],
+    "currCode": ["EUR"],
+    "pegged": ["none"],
+    "territory": "France",
+    "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/mf.png"
+    },
+    {
+    "alpha3Code": "MAR",
+    "name": "Morocco",
+    "currName": ["Moroccan dirham"],
+    "currCode": ["MAD"],
+    "pegged": ["60% EUR and 40% USD"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Moroccan Dirham.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ma.png"
+    },
+    {
+    "alpha3Code": "MCO",
+    "name": "Monaco",
+    "currName": ["EU euro"],
+    "currCode": ["EUR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/mc.png"
+    },
+    {
+    "alpha3Code": "MDA",
+    "name": "Republic of Moldova",
+    "currName": ["Moldovan leu"],
+    "currCode": ["MDL"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Lek - Lempira - Leu - Loti - Lilangeni.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/md.png"
+    },
+    {
+    "alpha3Code": "MDG",
+    "name": "Madagascar",
+    "currName": ["Malagasy ariary"],
+    "currCode": ["MGA"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Malagasy ariary.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/mg.png"
+    },
+    {
+    "alpha3Code": "MDV",
+    "name": "Maldives",
+    "currName": ["Maldivian rufiyaa"],
+    "currCode": ["MVR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Maldivian Rufiyaa.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/mv.png"
+    },
+    {
+    "alpha3Code": "MEX",
+    "name": "Mexico",
+    "currName": ["Mexican peso"],
+    "currCode": ["MXN"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/mx.png"
+    },
+    {
+    "alpha3Code": "MHL",
+    "name": "Marshall Islands",
+    "currName": ["US dollar"],
+    "currCode": ["USD"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/mh.png"
+    },
+    {
+    "alpha3Code": "MKD",
+    "name": "Republic of North Macedonia",
+    "currName": ["Macedonian denar"],
+    "currCode": ["MKD"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Macedonian denar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/mk.png"
+    },
+    {
+    "alpha3Code": "MLI",
+    "name": "Mali",
+    "currName": ["CFA franc BCEAO"],
+    "currCode": ["XOF"],
+    "pegged": ["Fixed exchange rate 1 EUR to 655.957 CFA"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/West African Franc.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ml.png"
+    },
+    {
+    "alpha3Code": "MLT",
+    "name": "Malta",
+    "currName": ["EU euro"],
+    "currCode": ["EUR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/mt.png"
+    },
+    {
+    "alpha3Code": "MMR",
+    "name": "Myanmar",
+    "currName": ["Myanmar kyat"],
+    "currCode": ["MMK"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Kina - Kyat.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/mm.png"
+    },
+    {
+    "alpha3Code": "MNE",
+    "name": "Montenegro",
+    "currName": ["EU euro"],
+    "currCode": ["EUR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/me.png"
+    },
+    {
+    "alpha3Code": "MNG",
+    "name": "Mongolia",
+    "currName": ["Mongolian tugrik"],
+    "currCode": ["MNT"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Mongolian Togrog - Tugrik.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/mn.png"
+    },
+    {
+    "alpha3Code": "MNP",
+    "name": "Northern Mariana Islands",
+    "currName": ["US dollar"],
+    "currCode": ["USD"],
+    "pegged": ["none"],
+    "territory": "United States",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/mp.png"
+    },
+    {
+    "alpha3Code": "MOZ",
+    "name": "Mozambique",
+    "currName": ["Mozambique metical"],
+    "currCode": ["MZN"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Mozambican Metical.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/mz.png"
+    },
+    {
+    "alpha3Code": "MRT",
+    "name": "Mauritania",
+    "currName": ["Mauritanian ouguiya"],
+    "currCode": ["MRO"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Mauritanian Ouguiya.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/mr.png"
+    },
+    {
+    "alpha3Code": "MSR",
+    "name": "Montserrat",
+    "currName": ["East Caribbean dollar"],
+    "currCode": ["XCD"],
+    "pegged": ["1 USD to 2.70 XCD"],
+    "territory": "United Kingdom",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ms.png"
+    },
+    {
+    "alpha3Code": "MTQ",
+    "name": "Martinique",
+    "currName": ["EU euro"],
+    "currCode": ["EUR"],
+    "pegged": ["none"],
+    "territory": "France",
+    "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/mq.png"
+    },
+    {
+    "alpha3Code": "MUS",
+    "name": "Mauritius",
+    "currName": ["Mauritius rupee"],
+    "currCode": ["MUR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Rupee Rs.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/mu.png"
+    },
+    {
+    "alpha3Code": "MWI",
+    "name": "Malawi",
+    "currName": ["Malawi kwacha"],
+    "currCode": ["MWK"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Kina - Kyat - Kwacha.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/mw.png"
+    },
+    {
+    "alpha3Code": "MYS",
+    "name": "Malaysia",
+    "currName": ["Malaysian ringgit"],
+    "currCode": ["MYR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Malaysian Ringgit.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/my.png"
+    },
+    {
+    "alpha3Code": "MYT",
+    "name": "Mayotte",
+    "currName": ["EU euro"],
+    "currCode": ["EUR"],
+    "pegged": ["none"],
+    "territory": "France",
+    "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/yt.png"
+    },
+    {
+    "alpha3Code": "NAM",
+    "name": "Namibia",
+    "currName": ["Namibian dollar"],
+    "currCode": ["NAD"],
+    "pegged": ["1 ZAR to 1 NAD"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/na.png"
+    },
+    {
+    "alpha3Code": "NCL",
+    "name": "New Caledonia",
+    "currName": ["CFP franc"],
+    "currCode": ["XPF"],
+    "pegged": ["1000 XPF to 8.38 EUR"],
+    "territory": "France",
+    "currSymbol": ["public/World Currency Symbols/CFP franc.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/nc.png"
+    },
+    {
+    "alpha3Code": "NER",
+    "name": "Niger",
+    "currName": ["CFA franc BCEAO"],
+    "currCode": ["XOF"],
+    "pegged": ["Fixed exchange rate 1 EUR to 655.957 CFA"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/West African Franc.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ne.png"
+    },
+    {
+    "alpha3Code": "NFK",
+    "name": "Norfolk Island",
+    "currName": ["Australian dollar"],
+    "currCode": ["AUD"],
+    "pegged": ["none"],
+    "territory": "Australia",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/nf.png"
+    },
+    {
+    "alpha3Code": "NGA",
+    "name": "Nigeria",
+    "currName": ["Nigerian naira"],
+    "currCode": ["NGN"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Nigerian Naira.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ng.png"
+    },
+    {
+    "alpha3Code": "NIC",
+    "name": "Nicaragua",
+    "currName": ["Nicaraguan cordoba"],
+    "currCode": ["NIO"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Nicaraguan Cordoba.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ni.png"
+    },
+    {
+    "alpha3Code": "NIU",
+    "name": "Niue",
+    "currName": ["New Zealand dollar"],
+    "currCode": ["NZD"],
+    "pegged": ["none"],
+    "territory": "New Zealand",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/nu.png"
+    },
+    {
+    "alpha3Code": "NLD",
+    "name": "Netherlands",
+    "currName": ["EU euro"],
+    "currCode": ["EUR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/nl.png"
+    },
+    {
+    "alpha3Code": "NOR",
+    "name": "Norway",
+    "currName": ["Norwegian krone"],
+    "currCode": ["NOK"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Krone - Krona.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/no.png"
+    },
+    {
+    "alpha3Code": "NPL",
+    "name": "Nepal",
+    "currName": ["Nepalese rupee"],
+    "currCode": ["NPR"],
+    "pegged": ["1 INR to 1.6 NPR"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Nepalese rupee.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/np.png"
+    },
+    {
+    "alpha3Code": "NRU",
+    "name": "Nauru",
+    "currName": ["Australian dollar"],
+    "currCode": ["AUD"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/nr.png"
+    },
+    {
+    "alpha3Code": "NZL",
+    "name": "New Zealand",
+    "currName": ["New Zealand dollar"],
+    "currCode": ["NZD"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/nz.png"
+    },
+    {
+    "alpha3Code": "OMN",
+    "name": "Oman",
+    "currName": ["Omani rial"],
+    "currCode": ["OMR"],
+    "pegged": ["1 USD to 0.384497 OMR"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Omani Rial.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/om.png"
+    },
+    {
+    "alpha3Code": "PAK",
+    "name": "Pakistan",
+    "currName": ["Pakistani rupee"],
+    "currCode": ["PKR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Rupee Rs.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/pk.png"
+    },
+    {
+    "alpha3Code": "PAN",
+    "name": "Panama",
+    "currName": ["Panamanian balboa", "US dollar"],
+    "currCode": ["PAB", "USD"],
+    "pegged": ["1 USD to 1 PAB"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Panamanian Balboa.svg", "public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/pa.png"
+    },
+    {
+    "alpha3Code": "PCN",
+    "name": "Pitcairn",
+    "currName": ["New Zealand dollar"],
+    "currCode": ["NZD"],
+    "pegged": ["none"],
+    "territory": "United Kingdom",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/pn.png"
+    },
+    {
+    "alpha3Code": "PER",
+    "name": "Peru",
+    "currName": ["Peruvian sol"],
+    "currCode": ["PEN"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Peruvian Nuevo Sol.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/pe.png"
+    },
+    {
+    "alpha3Code": "PHL",
+    "name": "Philippines",
+    "currName": ["Philippine peso"],
+    "currCode": ["PHP"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Peso.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ph.png"
+    },
+    {
+    "alpha3Code": "PLW",
+    "name": "Palau",
+    "currName": ["US dollar"],
+    "currCode": ["USD"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/pw.png"
+    },
+    {
+    "alpha3Code": "PNG",
+    "name": "Papua New Guinea",
+    "currName": ["Papua New Guinea kina"],
+    "currCode": ["PGK"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Kina - Kyat - Kwacha.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/pg.png"
+    },
+    {
+    "alpha3Code": "POL",
+    "name": "Poland",
+    "currName": ["Polish zloty", "EU euro"],
+    "currCode": ["PLN", "EUR"],
+    "pegged": ["none", "none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Polish Zloty.svg", "public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/pl.png"
+    },
+    {
+    "alpha3Code": "PRI",
+    "name": "Puerto Rico",
+    "currName": ["US dollar"],
+    "currCode": ["USD"],
+    "pegged": ["none"],
+    "territory": "United States",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/pr.png"
+    },
+    {
+    "alpha3Code": "PRK",
+    "name": "Democratic People's Republic of Korea",
+    "currName": ["North Korean won"],
+    "currCode": ["KPW"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/North and South Korean Won.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/kp.png"
+    },
+    {
+    "alpha3Code": "PRT",
+    "name": "Portugal",
+    "currName": ["EU euro"],
+    "currCode": ["EUR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/pt.png"
+    },
+    {
+    "alpha3Code": "PRY",
+    "name": "Paraguay",
+    "currName": ["Paraguayan guarani"],
+    "currCode": ["PYG"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Paraguayan Guarani.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/py.png"
+    },
+    {
+    "alpha3Code": "PSE",
+    "name": "State of Palestine",
+    "currName": ["Egyptian pound", "Israeli new shekel", "Jordanian dinar"],
+    "currCode": ["EGP", "ILS", "JOD"],
+    "pegged": ["none", "none", "none"],
+    "territory": "Israel, Gaza Strip (Hamas)",
+    "currSymbol": ["public/World Currency Symbols/Egyptian Pound.svg", "public/World Currency Symbols/Israeli New Shekel.svg", "public/World Currency Symbols/Jordanian Dinar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ps.png"
+    },
+    {
+    "alpha3Code": "PYF",
+    "name": "French Polynesia",
+    "currName": ["CFP franc"],
+    "currCode": ["XPF"],
+    "pegged": ["1000 XPF to 8.38 EUR"],
+    "territory": "France",
+    "currSymbol": ["public/World Currency Symbols/CFP franc.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/pf.png"
+    },
+    {
+    "alpha3Code": "QAT",
+    "name": "Qatar",
+    "currName": ["Qatari riyal"],
+    "currCode": ["QAR"],
+    "pegged": ["1 USD to 3.65 QAR"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Qatari Riyal.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/qa.png"
+    },
+    {
+    "alpha3Code": "REU",
+    "name": "R�union",
+    "currName": ["EU euro"],
+    "currCode": ["EUR"],
+    "pegged": ["none"],
+    "territory": "France",
+    "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/re.png"
+    },
+    {
+    "alpha3Code": "ROU",
+    "name": "Romania",
+    "currName": ["Romanian leu","EU euro"],
+    "currCode": ["RON", "EUR"],
+    "pegged": ["none", "none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Lek - Lempira - Leu - Loti - Lilangeni.svg", "public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ro.png"
+    },
+    {
+    "alpha3Code": "RUS",
+    "name": "Russia",
+    "currName": ["Russian ruble"],
+    "currCode": ["RUB"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Russian Ruble.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ru.png"
+    },
+    {
+    "alpha3Code": "RWA",
+    "name": "Rwanda",
+    "currName": ["Rwandan franc"],
+    "currCode": ["RWF"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Rawandan Franc.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/rw.png"
+    },
+    {
+    "alpha3Code": "SAU",
+    "name": "Saudi Arabia",
+    "currName": ["Saudi riyal"],
+    "currCode": ["SAR"],
+    "pegged": ["1 USD to 3.75 SAR"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Saudi Riyal.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/sa.png"
+    },
+    {
+    "alpha3Code": "SDN",
+    "name": "Sudan",
+    "currName": ["Sudanese pound"],
+    "currCode": ["SDG"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Sudanese Pound.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/sd.png"
+    },
+    {
+    "alpha3Code": "SEN",
+    "name": "Senegal",
+    "currName": ["CFA franc BCEAO"],
+    "currCode": ["XOF"],
+    "pegged": ["Fixed exchange rate 1 EUR to 655.957 CFA"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/West African Franc.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/sn.png"
+    },
+    {
+    "alpha3Code": "SGP",
+    "name": "Singapore",
+    "currName": ["Singapore dollar", "Brunei dollar"],
+    "currCode": ["SGD", "BND"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg", "public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/sg.png"
+    },
+    {
+    "alpha3Code": "SGS",
+    "name": "South Georgia and the South Sandwich Islands",
+    "currName": ["Falkland Islands pound"],
+    "currCode": ["FKP"],
+    "pegged": ["1 GBP to 1 FKP"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Pound.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/gs.png"
+    },
+    {
+    "alpha3Code": "SHN",
+    "name": "Saint Helena",
+    "currName": ["Saint Helena pound"],
+    "currCode": ["SHP"],
+    "pegged": ["1 GBP to 1 SHP"],
+    "territory": "United Kingdom",
+    "currSymbol": ["public/World Currency Symbols/Pound.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/sh.png"
+    },
+    {
+        "alpha3Code": "SJM",
+        "name": "Svalbard and Jan Mayen",
+        "currName": ["Norwegian krone"],
+        "currCode": ["NOK"],
+        "pegged": ["none"],
+        "territory": "Norway",
+        "currSymbol": ["public/World Currency Symbols/Krone - Krona.svg"],
+        "flag": "https://flagpedia.net/data/flags/w580/no.png"
+        },
+    {
+    "alpha3Code": "SLB",
+    "name": "Solomon Islands",
+    "currName": ["Solomon Islands dollar"],
+    "currCode": ["SBD"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/sb.png"
+    },
+    {
+    "alpha3Code": "SLE",
+    "name": "Sierra Leone",
+    "currName": ["Sierra Leonean Leone"],
+    "currCode": ["SLL"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Sierra Leonean Leone.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/sl.png"
+    },
+    {
+    "alpha3Code": "SLV",
+    "name": "El Salvador",
+    "currName": ["El Salvador colón", "US dollar", "Bitcoin"],
+    "currCode": ["SVC", "USD", "BTC"],
+    "pegged": ["1 USD to 8.75 SVC", "none", "none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Colon.svg", "public/World Currency Symbols/Dollar.svg", "public/World Currency Symbols/Bitcoin.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/sv.png"
+    },
+    {
+    "alpha3Code": "SMR",
+    "name": "San Marino",
+    "currName": ["EU euro"],
+    "currCode": ["EUR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/sm.png"
+    },
+    {
+    "alpha3Code": "SOM",
+    "name": "Somalia",
+    "currName": ["Somali shilling"],
+    "currCode": ["SOS"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Somali Shilling.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/so.png"
+    },
+    {
+    "alpha3Code": "SPM",
+    "name": "Saint Pierre and Miquelon",
+    "currName": ["Canadian dollar", "EU euro"],
+    "currCode": ["CAD", "EUR"],
+    "pegged": ["unofficial currency", "none"],
+    "territory": "France",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg", "public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/pm.png"
+    },
+    {
+    "alpha3Code": "SRB",
+    "name": "Serbia",
+    "currName": ["Serbian dinar"],
+    "currCode": ["RSD"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Serbian Dinar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/rs.png"
+    },
+    {
+    "alpha3Code": "SSD",
+    "name": "South Sudan",
+    "currName": ["South Sudanese pound"],
+    "currCode": ["SSP"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/South Sudanese Pound.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ss.png"
+    },
+    {
+    "alpha3Code": "STP",
+    "name": "Sao Tome and Principe",
+    "currName": ["Sao Tome and Principe dobra"],
+    "currCode": ["STD"],
+    "pegged": ["1 EUR TO 24,500 STD"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Sao Tome And Principe Dobra.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/st.png"
+    },
+    {
+    "alpha3Code": "SUR",
+    "name": "SuriName",
+    "currName": ["Surinamese dollar"],
+    "currCode": ["SRD"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/sr.png"
+    },
+    {
+    "alpha3Code": "SVK",
+    "name": "Slovakia",
+    "currName": ["EU euro"],
+    "currCode": ["EUR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/sk.png"
+    },
+    {
+    "alpha3Code": "SVN",
+    "name": "Slovenia",
+    "currName": ["EU euro"],
+    "currCode": ["EUR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/si.png"
+    },
+    {
+    "alpha3Code": "SWE",
+    "name": "Sweden",
+    "currName": ["Swedish krona", "EU euro"],
+    "currCode": ["SEK", "EUR"],
+    "pegged": ["none", "none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Krone - Krona.svg", "public/World Currency Symbols/Euro.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/se.png"
+    },
+    {
+    "alpha3Code": "SWZ",
+    "name": "Eswatini",
+    "currName": ["Swazi lilangeni"],
+    "currCode": ["SZL"],
+    "pegged": ["1 ZAR to 1 SZL"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Lek - Lempira - Leu - Loti - Lilangeni.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/sz.png"
+    },
+    {
+    "alpha3Code": "SXM",
+    "name": "Sint Maarten (Dutch part)",
+    "currName": ["Netherlands Antillian guilder"],
+    "currCode": ["ANG"],
+    "pegged": ["1 USD TO 1.79 ANG"],
+    "territory": "Neatherlands",
+    "currSymbol": ["public/World Currency Symbols/Guilder.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/sx.png"
+    },
+    {
+    "alpha3Code": "SYC",
+    "name": "Seychelles",
+    "currName": ["Seychelles rupee"],
+    "currCode": ["SCR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Rupee Rs.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/sc.png"
+    },
+    {
+    "alpha3Code": "SYR",
+    "name": "Syria",
+    "currName": ["Syrian pound"],
+    "currCode": ["SYP"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Syrian Pound.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/sy.png"
+    },
+    {
+    "alpha3Code": "TCA",
+    "name": "Turks and Caicos Islands",
+    "currName": ["US dollar"],
+    "currCode": ["USD"],
+    "pegged": ["none"],
+    "territory": "United Kingdom",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/tc.png"
+    },
+    {
+    "alpha3Code": "TCD",
+    "name": "Chad",
+    "currName": ["CFA franc BEAC"],
+    "currCode": ["XAF"],
+    "pegged": ["1 EUR to 655.957 CFA"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Central African Franc.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/td.png"
+    },
+    {
+    "alpha3Code": "TGO",
+    "name": "Togo",
+    "currName": ["CFA franc BCEAO"],
+    "currCode": ["XOF"],
+    "pegged": ["Fixed exchange rate 1 EUR to 655.957 CFA"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/West African Franc.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/tg.png"
+    },
+    {
+    "alpha3Code": "THA",
+    "name": "Thailand",
+    "currName": ["Thai baht"],
+    "currCode": ["THB"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Thai Baht.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/th.png"
+    },
+    {
+    "alpha3Code": "TJK",
+    "name": "Tajikistan",
+    "currName": ["Tajik somoni"],
+    "currCode": ["TJS"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Tajikstani Somoni.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/tj.png"
+    },
+    {
+    "alpha3Code": "TKL",
+    "name": "Tokelau",
+    "currName": ["New Zealand dollar"],
+    "currCode": ["NZD"],
+    "pegged": ["none"],
+    "territory": "New Zealand",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/tk.png"
+    },
+    {
+    "alpha3Code": "TKM",
+    "name": "Turkmenistan",
+    "currName": ["Turkmenistani manat"],
+    "currCode": ["TMT"],
+    "pegged": ["1 USD to 3.50 TMT"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Turkmenistani manat.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/tm.png"
+    },
+    {
+    "alpha3Code": "TLS",
+    "name": "East Timor (Timor-Leste)",
+    "currName": ["US dollar"],
+    "currCode": ["USD"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/tl.png"
+    },
+    {
+    "alpha3Code": "TON",
+    "name": "Tonga",
+    "currName": ["Tongan pa'anga"],
+    "currCode": ["TOP"],
+    "pegged": ["not convertible pegged to Australian Dollar, New Zealand Dollar, U.S. Dollar and Japanese Yen"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Tongan Pa'anga.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/to.png"
+    },
+    {
+    "alpha3Code": "TTO",
+    "name": "Trinidad and Tobago",
+    "currName": ["Trinidad and Tobago dollar"],
+    "currCode": ["TTD"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/tt.png"
+    },
+    {
+    "alpha3Code": "TUN",
+    "name": "Tunisia",
+    "currName": ["Tunisian dinar"],
+    "currCode": ["TND"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Tunisian Dinar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/tn.png"
+    },
+    {
+    "alpha3Code": "TUR",
+    "name": "Turkey",
+    "currName": ["Turkish lira"],
+    "currCode": ["TRY"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Turkish Lira.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/tr.png"
+    },
+    {
+    "alpha3Code": "TUV",
+    "name": "Tuvalu",
+    "currName": ["Tuvaluan dollar", "Australian dollar"],
+    "currCode": ["TVD", "AUD"],
+    "pegged": ["1 AUD to 1 TVD", "none"],
+    "territory": ["none"],
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg", "public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/tv.png"
+    },
+    {
+    "alpha3Code": "TWN",
+    "name": "Republic of China (Taiwan)",
+    "currName": ["New Taiwan dollar"],
+    "currCode": ["TWD"],
+    "pegged": ["none"],
+    "territory": "Depends on who you ask.",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/tw.png"
+    },
+    {
+    "alpha3Code": "TZA",
+    "name": "Tanzania, United Republic of",
+    "currName": ["Tanzanian shilling"],
+    "currCode": ["TZS"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Tanzanian Shilling.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/tz.png"
+    },
+    {
+    "alpha3Code": "UGA",
+    "name": "Uganda",
+    "currName": ["Ugandan shilling"],
+    "currCode": ["UGX"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Ugandan Shilling.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ug.png"
+    },
+    {
+    "alpha3Code": "UKR",
+    "name": "Ukraine",
+    "currName": ["Ukrainian hryvnia"],
+    "currCode": ["UAH"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Ukrainian Hryvnia.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ua.png"
+    },
+    {
+    "alpha3Code": "UMI",
+    "name": "United States Minor Outlying Islands",
+    "currName": ["US dollar"],
+    "currCode": ["USD"],
+    "pegged": ["none"],
+    "territory": "United States",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/us.png"
+    },
+    {
+    "alpha3Code": "URY",
+    "name": "Uruguay",
+    "currName": ["Uruguayan peso"],
+    "currCode": ["UYU"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/uy.png"
+    },
+    {
+    "alpha3Code": "USA",
+    "name": "United States of America",
+    "currName": ["US dollar"],
+    "currCode": ["USD"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/us.png"
+    },
+    {
+    "alpha3Code": "UZB",
+    "name": "Uzbekistan",
+    "currName": ["Uzbekistani so'm"],
+    "currCode": ["UZS"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Uzbekistani Soʻm.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/uz.png"
+    },
+    {
+    "alpha3Code": "VCT",
+    "name": "Saint Vincent and the Grenadines",
+    "currName": ["East Caribbean dollar"],
+    "currCode": ["XCD"],
+    "pegged": ["1 USD to 2.70 XCD"],
+    "territory": "United Kingdom",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/vc.png"
+    },
+    {
+    "alpha3Code": "VEN",
+    "name": "Venezuela (Bolivarian Republic of)",
+    "currName": ["Venezuelan bolivar soberano"],
+    "currCode": ["VEF"],
+    "pegged": ["Currency code for bolivar soberano is VES"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Venezuelan bolívar soberano.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ve.png"
+    },
+    {
+    "alpha3Code": "VGB",
+    "name": "British Virgin Islands",
+    "currName": ["US dollar"],
+    "currCode": ["USD"],
+    "pegged": ["none"],
+    "territory": "United Kingdom",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/vg.png"
+    },
+    {
+    "alpha3Code": "VIR",
+    "name": "United States Virgin Islands",
+    "currName": ["US dollar"],
+    "currCode": ["USD"],
+    "pegged": ["none"],
+    "territory": "United States",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/vi.png"
+    },
+    {
+        "alpha3Code": "VAT",
+        "name": "Vatican City",
+        "currName": ["Euro"],
+        "currCode": ["EUR"],
+        "pegged": ["none"],
+        "territory": "none",
+        "currSymbol": ["public/World Currency Symbols/Euro.svg"],
+        "flag": "https://flagpedia.net/data/flags/w580/va.png"
+    },
+    {
+    "alpha3Code": "VNM",
+    "name": "Vietnam",
+    "currName": ["Vietnamese dong"],
+    "currCode": ["VND"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Vietnamese Dong.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/vn.png"
+    },
+    {
+    "alpha3Code": "VUT",
+    "name": "Vanuatu",
+    "currName": ["Vanuatu vatu"],
+    "currCode": ["VUV"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Vanuatu Vatu.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/vu.png"
+    },
+    {
+    "alpha3Code": "WLF",
+    "name": "Wallis and Futuna Islands",
+    "currName": ["CFP franc"],
+    "currCode": ["XPF"],
+    "pegged": ["1000 XPF to 8.38 EUR"],
+    "territory": "France",
+    "currSymbol": ["public/World Currency Symbols/CFP franc.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/wf.png"
+    },
+    {
+    "alpha3Code": "WSM",
+    "name": "Samoa",
+    "currName": ["Samoan tala"],
+    "currCode": ["WST"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ws.png"
+    },
+    {
+    "alpha3Code": "YEM",
+    "name": "Yemen",
+    "currName": ["Yemeni rial"],
+    "currCode": ["YER"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Yemeni Rial.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/ye.png"
+    },
+    {
+    "alpha3Code": "ZAF",
+    "name": "South Africa",
+    "currName": ["South African rand"],
+    "currCode": ["ZAR"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/South African Rand.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/za.png"
+    },
+    {
+    "alpha3Code": "ZMB",
+    "name": "Zambia",
+    "currName": ["Zambian kwacha"],
+    "currCode": ["ZMW"],
+    "pegged": ["none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Kina - Kyat - Kwacha.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/zm.png"
+    },
+    {
+    "alpha3Code": "ZWE",
+    "name": "Zimbabwe",
+    "currName": ["Real Time Gross Settlement dollar (Zimdollar)", "US dollar"],
+    "currCode": ["ZWL", "USD"],
+    "pegged": ["none", "none"],
+    "territory": "none",
+    "currSymbol": ["public/World Currency Symbols/Zimbabwean Dollar RTGS.svg", "public/World Currency Symbols/Dollar.svg"],
+    "flag": "https://flagpedia.net/data/flags/w580/zw.png"
+    }
+]

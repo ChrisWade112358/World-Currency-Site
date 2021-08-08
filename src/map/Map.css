@@ -1,0 +1,12 @@
+.map-container {
+    height: 100vh;
+    width: 1350px;
+    position:relative;
+  }
+
+.Sidebar{
+    height: 200px;
+    width: 350px;
+    background-color: #ef9217;
+    position: fixed;
+}
