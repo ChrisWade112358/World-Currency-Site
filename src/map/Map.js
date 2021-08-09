@@ -3,6 +3,7 @@ import './Map.css'
 import mapboxgl from "mapbox-gl";
 import { MapContext } from '../store/MapContext';
 import findCountryIndex from '../store/FindCountryIndex';
+import MapSidebar from "./mapSidebar/MapSidebar";
 
 
 
@@ -117,6 +118,7 @@ const MapboxGLMap = () => {
   });
   return (
     <div>
+        {sidebarData.current ? <MapSidebar data={sidebarData} /> | console.log("didn't work")}
         <div ref={mapContainer} className="map-container" />
     </div>
   );
