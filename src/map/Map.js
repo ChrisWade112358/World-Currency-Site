@@ -21,6 +21,7 @@ const MapboxGLMap = () => {
   //Country Data State
 
   const countryData = useContext(MapContext);
+  const sidebarData = useRef()
 
   
   
@@ -106,8 +107,8 @@ const MapboxGLMap = () => {
             
             if (features[0]) {
                 let countryIndex = findCountryIndex(features[0].properties.iso_3166_1_alpha_3, countryData[0]);
-                const data = countryData[0][countryIndex]
-                console.log(data)
+                 sibebarData = countryData[0][countryIndex]
+                console.log(sidebarData)
                     
             }
              
